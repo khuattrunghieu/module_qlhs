@@ -1,0 +1,9 @@
+{
+    "Teacher": true,
+    "Student": true,
+    "School": true,
+    "Class": true,
+    "Admin": true,
+    "Classes": true,
+    "CreateClassesTable": true
+}
