@@ -25,3 +25,5 @@ Thêm dữ liệu database
     php artisan module:seed
 
 Link dự án: https://songchetmacbay0001.000webhostapp.com
+Tài khoản đăng nhập: admin@gmail.com
+Passwprd đăng nhập: 123456789
