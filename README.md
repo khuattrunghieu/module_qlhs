@@ -23,3 +23,5 @@ Thêm dữ liệu database
     php artisan db:seed
 
     php artisan module:seed
+
+Link dự án: https://songchetmacbay0001.000webhostapp.com
