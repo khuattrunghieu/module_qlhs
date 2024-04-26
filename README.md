@@ -28,4 +28,4 @@ Link dự án: https://songchetmacbay0001.000webhostapp.com
     
     Tài khoản đăng nhập: admin@gmail.com
     
-    Passwprd đăng nhập: 123456789
+    Password đăng nhập: 123456789
